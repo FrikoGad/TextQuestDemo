@@ -1,10 +1,3 @@
 <resources>
     <string name="app_name">TextQuest</string>
-    <string name="step_1">Вы проснулись в темной комнате. В ней есть деревянный стол и бронзовый сундук. Что делать дальше? Подойти к столу или попробовать открыть сундук?</string>
-    <string name="step_1_action_1">Подойти к столу</string>
-    <string name="step_1_action_2">открыть сундук</string>
-    <string name="step_2">Листок с записями на столе: "Приходи в наше тайное место рядом цветущей сакурой, я буду тебя ждать." Что делат дальше? Выйти из комнаты или открыть сундук?</string>
-    <string name="step_2_action_1">Выйти из комнаты</string>
-    <string name="step_2_action_2">открыть сундук</string>
-    <string name="step_3">В сундуке находится вакидзаси и несколько лепестков сакуры</string>
 </resources>

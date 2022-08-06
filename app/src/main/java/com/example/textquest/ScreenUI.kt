@@ -45,7 +45,7 @@ class ActionUI(
 
         fun setSpan(spannableString: SpannableString, fullText: String) {
 
-            val indexOf = text.indexOf(fullText)
+            val indexOf = fullText.indexOf(text)
             spannableString.setSpan(
                 clickableSpan,
                 indexOf,
